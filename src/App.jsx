@@ -137,6 +137,9 @@ function App() {
     
     </div>
   </section>
+  <footer style={{ textAlign: 'center', padding: '20px', backgroundColor: '#111', color: '#fff', fontSize: '0.9rem' }}>
+    <p>Designed with ❤️ DigitalRaja07</p>
+  </footer>
     </>
   );
 }
