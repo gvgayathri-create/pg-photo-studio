@@ -6,9 +6,9 @@ function App() {
     <>
       <nav>
   <div className="nav-logo">
-    <img src="/logo.png" alt="PG Photo Studio Logo" />
+    <img src="/logo.png" alt="PG Studio Logo" />
     <div>
-      <div className="nav-brand"><span>PG</span> Photo Studio</div>
+      <div className="nav-brand"><span>PG</span> Studio</div>
       <div className="nav-sub">Photo Event Management</div>
     </div>
   </div>
@@ -25,7 +25,7 @@ function App() {
   <div className="hero-grid">
     <div className="hero-content">
       <span className="hero-eyebrow">Capture Your Moments...</span>
-      <h1 className="hero-title"><span className="gold">PG</span><br />Photo Studio</h1>
+      <h1 className="hero-title"><span className="gold">PG</span><br />Studio</h1>
       <p className="hero-tagline">★ Photo Event Management ★</p>
       <p className="hero-desc">Professional photography, photo restoration, high-quality printing, and framing — all in one place. Your memories deserve to be beautiful.</p>
       <div className="hero-actions">
